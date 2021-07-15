@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 3rem;
+}
+
+img {
+    width: 40vw;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+#inlineBtn {
+    display: inline-block;
+}
+
+.darkenImage {
+    filter: brightness(50%)
+}
+
+.borderImage {
+    border-radius: 20px;
+}
+
+.styleBtn {
+    background-color: royalblue;
+}
+
+.hiddenClass {
+    display: none;
+}
